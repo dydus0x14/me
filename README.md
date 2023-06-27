@@ -1,10 +1,12 @@
 # me
 
+## Open Source
+Swift technical committee member in openapi-generator https://github.com/OpenAPITools/openapi-generator, creator of swift-combine client generator. [How swift-combine generator works.](https://github.com/dydus0x14/openapi-generator-swift-combine)
+
 ## Articles
 https://habr.com/ru/users/dydus0x14/posts/
 
 ## Talks
-
 
 ### Генерация сетевого слоя iOS приложения на основе Swagger (OpenAPI) спецификации
 #### 2021, Podlodka #6
@@ -42,3 +44,7 @@ https://habr.com/ru/users/dydus0x14/posts/
 Запись https://www.youtube.com/watch?v=luptFJu6skc
 
 Слайды https://github.com/dydus0x14/me/blob/main/slides/RealtimeCollaboration.pdf
+
+## Other
+
+[Mobius Conference](http://mobiusconf.com) program committee member 2018-2020
