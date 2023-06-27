@@ -6,6 +6,8 @@ Swift technical committee member in openapi-generator https://github.com/OpenAPI
 ## Articles
 https://habr.com/ru/users/dydus0x14/posts/
 
+https://medium.com/@dydus0x14
+
 ## Talks
 
 ### Генерация сетевого слоя iOS приложения на основе Swagger (OpenAPI) спецификации
